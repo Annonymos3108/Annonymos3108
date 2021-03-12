@@ -13,6 +13,8 @@
 ![ASM](https://img.shields.io/badge/-ASM-090909?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net) 
 ![Jupyter_notebook](https://img.shields.io/badge/-Jupyter%20notebooks-090909?style=for-the-badge&logo=jupyter)
+![QT](https://img.shields.io/badge/-Qt-090909?style=for-the-badge&logo=qt) 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-090909?style=for-the-badge&logo=visual-studio) 
 ![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-090909?style=for-the-badge&logo=Microsoft-SQL-server)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![Git](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github)
