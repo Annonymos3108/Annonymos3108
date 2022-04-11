@@ -16,13 +16,15 @@
 ![QT](https://img.shields.io/badge/-Qt-090909?style=for-the-badge&logo=qt) 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-090909?style=for-the-badge&logo=visual-studio) 
 ![Microsoft_SQL_Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-090909?style=for-the-badge&logo=Microsoft-SQL-server)
+![PostgreSQL](https://img.shields.io/badge/-Postgre_SQL-090909?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![Git](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github)
+
 
 ## Найдите меня в социальных сетях
 
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk)](https://vk.com/arthurnersisyan)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://instagram.com/arthur.nersisyan)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://instagram.com/arthur.devereax78)
 [![FB](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook)](https://fb.com/the.arthur.nersisyans.page)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/deveraux78)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/arthur-nersisyan-863240129/)
